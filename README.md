@@ -1,4 +1,4 @@
-# tailwindcss-v4 — AI Agent Skill
+# tailwindcss-v4 - AI Agent Skill
 
 An AI agent skill that enforces correct **Tailwind CSS v4** usage, especially in Next.js projects. Drop `SKILL.md` into your skills folder and agents will stop generating v3 patterns, unnecessary arbitrary values, and broken dark mode configs.
 
