@@ -7,7 +7,7 @@ An AI agent skill that enforces correct **Tailwind CSS v4** usage, especially in
 | Rule | What it covers |
 |------|---------------|
 | **1. Always v4** | Install commands, `@import "tailwindcss"`, `@theme {}`, PostCSS for Next.js |
-| **2. No arbitrary values** | Opacity modifiers, spacing scale, aspect ratio, fonts, color names, CSS variables |
+| **2. No unnecessary arbitrary values** | Opacity modifiers, spacing scale, aspect ratio, fonts, color names, CSS variables |
 | **3. Canonical classes** | Shorthand collapsing (`w-5 h-5` → `size-5`), sign placement, renamed scale utilities |
 | **4. Dark mode** | `@custom-variant` strategies, semantic token flipping, `next-themes` integration |
 | **5. Custom utilities** | `@utility` over `@layer utilities`, `@apply` rules, `@reference` for scoped styles |
